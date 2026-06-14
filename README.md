@@ -13,6 +13,12 @@
 | 重力 | 変位7.00ピクセル |
 | 電磁気力 | 同じ電荷:反発 / 異なる電荷:引力 |
 
+## 実行方法
+
+```bash
+pip install numpy matplotlib
+python simulations/electromagnetism.py
+
 ### 著者
 Tai.ch (2026)
 
